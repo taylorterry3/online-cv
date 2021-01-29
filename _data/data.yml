@@ -7,20 +7,20 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Taylor Terry
+    tagline: Data Science & Engineering Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: taylor.terry@gmail.com
+    phone: 202-431-0880
+    website:
+    linkedin:
+    github:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -55,9 +55,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BA, Social Studies, Magna Cum Laude
+      university: Harvard University
+      time: 2003
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +66,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: PhD Candidate
+      university: Northwestern University
+      time: 2006 - 2008
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,43 +78,32 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Staff Data Scientist
+      time: 2019 - Present
+      company: Alloy, Washington, DC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Summary can go here
+        - Second data scientist hired at a newly-formed progressive political data provider. Served as SME on voter file data, political data use cases, and progressive political data market landscape.
+        - Architected and built out ML Ops systems within AWS, including ETL and warehousing via Lake Formation and deploy of containerized model scoring processes via EMR.
+        - Collaborated on design and build out of a new national person entity resolution system.
+        - Helped recruit, interview, and train a team of data scientists and developers drawing from a mix of political and tech industry backgrounds.
+    - role: Director of Data Science
+      time: 2015 - 2019
+      company: Optoro, Washington, DC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Built a new data science team within the existing corporate structure, allowing Optoro to incorporate machine learning and advanced analytics into its products and processes.
+        - Hired and lead team of data scientists responsible for modeling market price, expected demand, and optimal disposition path for over $200 million worth of retail goods per year using a mix of traditional machine learning, NLP, and deep learning in Python.
+        - Personally designed and implemented marketplace prediction algorithms to save over $1 million a year in operating expenses by routing products to best sales channels.
+        - Oversaw cloud-based ETL pipelines using Airflow, Kafka, Postgres, MongoDB, and Snowflake.
+        - Partnered with developers and DevOps on design and implementation of containerized microservices to provide real-time predictive models within a service-oriented architecture.
+    - role: SuperPAC/Independent Expenditure Data Science Team Lead
+      time: 2013 - 2015
+      company: Civis Analytics
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Oversaw all technical and client-facing operations supporting SuperPACs and Independent Expenditures, Civis’ largest business line at the time.
+        - Managed a team of five data scientists responsible for building predictive models and analytics tools used to direct over $100 million in media spending and voter outreach programs in 32 US Senate and House elections.
+        - Briefed principals and stakeholders at national SuperPACs, issue advocacy organizations, and unions on election forecasts, paid media strategy, and optimal spending mix.
+        - Hired and trained team in SQL, statistical analysis, programming best practices, and effective visualization and communication of data-driven insights.
 projects:
     title: Projects
     intro: >
