@@ -38,7 +38,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Data science leader with deep domain-area knowledge of politics, public data, survey research, ecommerce, and logistics, and survey research, and political behavior. I build and lead teams that create sophisticated but human-friendly systems that make products and processes smarter. Expertise in machine learning, natural language processing, deep learning, and predictive analytics. Experience with Python, R, Airflow, TensorFlow, PyMC3, and Tableau. Fan of Postgres, Redshift, Snowflake, Jupyter, Flask, Word2Vec, IRT, XGBoost, Kafka, Docker, and Kubernetes.
+      Data science leader with deep domain-area knowledge of politics, public data, survey research, ecommerce, and logistics, and survey research, and political behavior. I build teams that create sophisticated but human-friendly systems that make products and processes smarter. Expertise in machine learning, natural language processing, deep learning, and predictive analytics. Experience with Python, R, Airflow, TensorFlow, PyMC3, and Tableau. Fan of Postgres, Redshift, Athena, Snowflake, Jupyter, Flask, Word2Vec, IRT, XGBoost, Kafka, Docker, and Kubernetes.
 education:
     - degree: BA, Social Studies, Magna Cum Laude
       university: Harvard University
@@ -68,7 +68,7 @@ experience:
       company: Alloy, Washington, DC
       details: |
         - Second data scientist hired at a newly-formed progressive political data provider. Served as SME on voter file data, political data use cases, and progressive political data market landscape.
-        - Architected and built out ML Ops systems within AWS, including ETL and warehousing via Lake Formation and deploy of containerized model scoring processes via EMR.
+        - Architected and built out ML Ops systems within AWS, including ETL and warehousing via Lake Formation/Athena and deploy of containerized model scoring processes via EMR.
         - Collaborated on design and build out of a new national person entity resolution system.
         - Helped recruit, interview, and train a team of data scientists and developers drawing from a mix of political and tech industry backgrounds.
     - role: Director of Data Science
@@ -87,16 +87,16 @@ experience:
         - Oversaw all technical and client-facing operations supporting SuperPACs and Independent Expenditures, Civis’ largest business line at the time.
         - Managed a team of five data scientists responsible for building predictive models and analytics tools used to direct over $100 million in media spending and voter outreach programs in 32 US Senate and House elections.
         - Briefed principals and stakeholders at national SuperPACs, issue advocacy organizations, and unions on election forecasts, paid media strategy, and optimal spending mix.
-        - Hired and trained team in SQL, statistical analysis, programming best practices, and effective visualization and communication of data-driven insights.
+        - Hired and trained team in SQL, statistical analysis, programming best practices, and effective communication of data-driven insights.
     - role: Director of Data and Targeting
       time: 2011 - 2013
       company: America Votes
       details: |
-        - Built a data management and analytics department from the ground up in under six months, including requirements gathering, hiring, vendor contract negotiation, infrastructure build out, and defining the department’s role within the organization and its network of partners.
+        - Built a data management and analytics department from the ground up in under six months, including hiring, requirements gathering, vendor contract negotiation, infrastructure build out, and defining the department’s role within the organization and its network of partners.
         - Oversaw all data operations supporting the America Votes coalition in the 2012 elections, including 50 million voter contact attempts by tens of thousands of activists nationwide.
         - Designed and built data products to support political work by America Votes and its partners, including predictive models, interactive dashboards, and electoral scenario analysis tools.
-        - Managed a department of five national data specialists, with additional oversight responsibilities for the work of eleven state data managers.
-        - Pioneered use of Item Response Theory modeling for individual-level voter turnout prediction in irregular elections, a technique which has since been widely adopted in the industry.
+        - Managed a department of five national data specialists, with additional oversight responsibilities for the work of eleven state-level data managers.
+        - Pioneered use of Item Response Theory modeling for individual-level voter turnout prediction in irregular elections, a technique which has since been widely adopted in the field.
     - role: Senior Analyst
       time: 2010-2011
       company: Catalist
@@ -108,12 +108,12 @@ experience:
       time: 2008-2009
       company: Activate
       details: |
-        - Managed a product and support team providing virtual predictive dialer services to over 60 campaign, issue advocacy, and union clients to design effective voter contact programs, manage data efficiently, and institute program accountability measures.
+        - Managed a product and support team helping over 60 political clients to design effective voter contact programs, manage data efficiently, and institute program accountability measures.
     - role: Business Analyst
       time: 2005-2006
       company: CGI
       details: |
-        - Gathered requirements, created functional designs, and managed Q/A for custom modifications and extensions to an ERP/HR platform for state and local governments.
+        - Gathered requirements, created functional designs, and managed Q/A for custom extensions to an ERP/HR platform for state and local governments.
     - role: New Hampshire and Maine Voter Database Administrator
       time: 2004
       company: America Coming Together (ACT)
@@ -174,11 +174,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Fizzing
+      - name: Python for Data Science & Data Engineering
         level: 98%
 
-      - name: Buzzing
+      - name: SQL
         level: 98%
+
+      - name: Bayesian Approaches
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
