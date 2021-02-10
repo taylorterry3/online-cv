@@ -155,7 +155,7 @@ skills:
         details: |
           - Python, Scikit-Learn, SQL, Redshift, Snowflake, Athena
       
-      - title: Data Engineering & ML Ops
+      - title: Data Engineering and ML Ops
         details: |
           - Kafka, Airflow, Docker
 
