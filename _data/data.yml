@@ -149,20 +149,20 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills &amp; Proficiencies [DRAFT]
 
     toolset:
-      - name: DS/Machine Learning in Python (Scikit-Learn, XGBoost, TensorFlow)
-        level: 98%      
+      - title: Core Toolkit
+        details: |
+        - Python, Scikit-Learn, SQL, Redshift, Snowflake, Athena
       
-      - name: Data Engineering, ML Ops, ETL, Data Lakes, Business Inteligenge ()
-        level: 98%
+      - title: Data Engineering & ML Ops
+        details: |
+        - Kafka, Airflow, Docker
 
-      - name: NLP, Bayesian Approaches
-        level: 98%
-
-      - name: Bayesian Approaches (PyMC3, )
-        level: 80%
+      - title: Tools I'm excited about in the future
+        details: |
+        - Pytorch, Spark
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
