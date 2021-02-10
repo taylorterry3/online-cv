@@ -38,7 +38,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Data science leader with deep domain-area knowledge of politics, public data, survey research, ecommerce, and logistics, and survey research, and political behavior. I build teams that create sophisticated but human-friendly systems that make products and processes smarter. Expertise in machine learning, natural language processing, deep learning, and predictive analytics. Experience with Python, R, Airflow, TensorFlow, PyMC3, and Tableau. Fan of Postgres, Redshift, Athena, Snowflake, Jupyter, Flask, Word2Vec, IRT, XGBoost, Kafka, Docker, and Kubernetes.
+      Data science leader with deep domain-area knowledge of politics, public data, survey research, ecommerce,logistics, and survey research. I build teams that create sophisticated but human-friendly systems that make products and processes smarter.
 education:
     - degree: BA, Social Studies, Magna Cum Laude
       university: Harvard University
@@ -68,7 +68,7 @@ experience:
       company: Alloy, Washington, DC
       details: |
         - Second data scientist hired at a newly-formed progressive political data provider. Served as SME on voter file data, political data use cases, and progressive political data market landscape.
-        - Architected and built out ML Ops systems within AWS, including ETL and warehousing via Lake Formation/Athena and deploy of containerized model scoring processes via EMR.
+        - Architected and built out ML ops systems within AWS, including ETL and warehousing via Lake Formation/Athena and deploy of containerized model scoring processes via EMR.
         - Collaborated on design and build out of a new national person entity resolution system.
         - Helped recruit, interview, and train a team of data scientists and developers drawing from a mix of political and tech industry backgrounds.
     - role: Director of Data Science
@@ -80,7 +80,7 @@ experience:
         - Personally designed and implemented marketplace prediction algorithms to save over $1 million a year in operating expenses by routing products to best sales channels.
         - Oversaw cloud-based ETL pipelines using Airflow, Kafka, Postgres, MongoDB, and Snowflake.
         - Partnered with developers and DevOps on design and implementation of containerized microservices to provide real-time predictive models within a service-oriented architecture.
-    - role: SuperPAC/Independent Expenditure Data Science Team Lead
+    - role: Data Science Team Lead, SuperPACs & Independent Expenditures
       time: 2013 - 2015
       company: Civis Analytics
       details: |
@@ -148,40 +148,21 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python for Data Science & Data Engineering
+      - name: DS/Machine Learning in Python (Scikit-Learn, XGBoost, TensorFlow)
+        level: 98%      
+      
+      - name: Data Engineering, ML Ops, ETL, Data Lakes, Business Inteligenge ()
         level: 98%
 
-      - name: SQL
+      - name: NLP, Bayesian Approaches
         level: 98%
 
-      - name: Bayesian Approaches
-        level: 60%
+      - name: Bayesian Approaches (PyMC3, )
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
