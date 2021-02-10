@@ -14,9 +14,9 @@
 
     {% for skill in skills.toolset %}
     <div class="item">
-      <div class="upper-row">
-        <h3 class="level-title">{{ skill.title }}</h3>
-      </div><!--//upper-row-->
+      <div class="level-title">
+        {{ skill.title }}
+      </div><!--//level-title-->
       <div class="details">
         {{ skill.details | markdownify }}
       </div><!--//details-->
