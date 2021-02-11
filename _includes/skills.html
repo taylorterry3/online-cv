@@ -14,11 +14,11 @@
 
     {% for skill in skills.toolset %}
     <div class="item">
-      <div class="level-title">
+      <div class="title">
         {{ skill.title }}
-      </div><!--//level-title-->
+      </div><!--//title-->
       <div class="details">
-        {{ skill.details }}
+        {{ skill.details | markdownify }}
       </div><!--//details-->
 
     </div><!--//item-->
