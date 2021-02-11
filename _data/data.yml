@@ -154,6 +154,7 @@ skills:
       - title: Core Toolkit
         details: |
           - Python, Scikit-Learn, SQL, Redshift, Snowflake, Athena
+          - Foo, Bar, Baz
       
       - title: Data Engineering and ML Ops
         details: |
