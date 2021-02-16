@@ -149,20 +149,24 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
-    title: Skills &amp; Proficiencies (DRAFT)
+    title: Skills &amp; Proficiencies
     toolset:
       - title: Core Toolkit
         details: |
-          - Python, Scikit-Learn, SQL, Redshift, Snowflake, Athena
-          - Foo, Bar, Baz
+          - Machine Learning & Data Analysis: Python, Pandas, Scikit-Learn, Jupyter, XGBoost, TensorFlow, PyMC3
+          - Data Engineering & ML Ops: Kafka, Airflow, Docker, Kubernetes, AWS Glue, Flask, SageMaker
+          - Storage & BI: Redshift, Athena, Snowflake, BigQuery, MongoDB, Tableau, Data Studio
       
-      - title: Data Engineering and ML Ops
+      - title: Other Tooling
         details: |
-          - Kafka, Airflow, Docker
+          - R: Data.table, Tidyverse, Caret
+          - GIS: PostGIS, QGIS, GeoPy, Google Earth, MapBox
+          - NLP: Gensim, NLTK, spaCy
+          - Experience integrating ML with Rails, Go, and Java applications
 
-      - title: Tools I'm excited about in the future
+      - title: Tools I'd Like to Use More
         details: |
-          - Pytorch, Spark
+          - PyTorch, Spark, Prophet, Swift
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
