@@ -85,14 +85,14 @@ experience:
       company: Civis Analytics
       details: |
         - Oversaw all technical and client-facing operations supporting SuperPACs and Independent Expenditures, Civis’ largest business line at the time.
-        - Managed a team of five data scientists responsible for building predictive models and analytics tools used to direct over $100 million in media spending and voter outreach programs in 32 US Senate and House elections.
+        - Managed a team of five data scientists responsible for building models and analytics tools used to direct over $100 million in spending across 32 US Senate and House elections.
         - Briefed principals and stakeholders at national SuperPACs, issue advocacy organizations, and unions on election forecasts, paid media strategy, and optimal spending mix.
         - Hired and trained team in SQL, statistical analysis, programming best practices, and effective communication of data-driven insights.
     - role: Director of Data and Targeting
       time: 2011 - 2013
       company: America Votes
       details: |
-        - Built a data management and analytics department from the ground up in under six months, including hiring, requirements gathering, vendor contract negotiation, infrastructure build out, and defining the department’s role within the organization and its network of partners.
+        - Built a data management and analytics department from the ground up in under six months.
         - Oversaw all data operations supporting the America Votes coalition in the 2012 elections, including 50 million voter contact attempts by tens of thousands of activists nationwide.
         - Designed and built data products to support political work by America Votes and its partners, including predictive models, interactive dashboards, and electoral scenario analysis tools.
         - Managed a department of five national data specialists, with additional oversight responsibilities for the work of eleven state-level data managers.
