@@ -87,7 +87,7 @@ experience:
         - Oversaw all technical and client-facing operations supporting SuperPACs and Independent Expenditures, Civis’ largest business line at the time.
         - Managed a team of five data scientists responsible for building models and analytics tools used to direct over $100 million in spending across 32 US Senate and House elections.
         - Briefed principals and stakeholders at national SuperPACs, issue advocacy organizations, and unions on election forecasts, paid media strategy, and optimal spending mix.
-        - Hired and trained team in SQL, statistical analysis, programming best practices, and effective communication of data-driven insights.
+        - Hired and trained team in statistical analysis, SQL, programming best practices, and effective communication of data-driven insights.
     - role: Director of Data and Targeting
       time: 2011 - 2013
       company: America Votes
@@ -128,25 +128,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Foo
+        link: "#Bar"
+        tagline: "A thing that did stuff."
 
 skills:
     title: Skills &amp; Proficiencies
@@ -157,14 +141,14 @@ skills:
           - Data Engineering & ML Ops: Kafka, Airflow, Docker, Kubernetes, AWS Glue, Flask, SageMaker
           - Storage & BI: Redshift, Athena, Snowflake, BigQuery, MongoDB, Tableau, Data Studio
       
-      - title: Other Tooling
+      - title: Other Technologies I've Used Extensively
         details: |
           - R: Data.table, Tidyverse, Caret
           - GIS: PostGIS, QGIS, GeoPy, Google Earth, MapBox
           - NLP: Gensim, NLTK, spaCy
-          - Experience integrating ML with Rails, Go, and Java applications
+          - Experience integrating ML in Rails, Go, and Java applications
 
-      - title: Tools I'd Like to Use More
+      - title: What I Want to Learn Next
         details: |
           - PyTorch, Spark, Prophet, Swift
 
